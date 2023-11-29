@@ -1,0 +1,35 @@
+CRITICAL - 2023-10-09 21:20:09 --> Cannot redeclare App\Controllers\Home::absensi()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-10-09 21:20:15 --> Cannot redeclare App\Controllers\Home::absensi()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-10-09 21:20:19 --> Cannot redeclare App\Controllers\Home::absensi()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-10-09 21:20:31 --> Cannot redeclare App\Controllers\Home::tambah_absensi()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-10-09 21:21:05 --> Invalid file: v_edit_info.php
+#0 C:\xampp\htdocs\siskamling\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_edit_info.php')
+#1 C:\xampp\htdocs\siskamling\system\Common.php(1089): CodeIgniter\View\View->render('v_edit_info', Array, true)
+#2 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(449): view('v_edit_info', Array)
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->edit_info('2')
+#4 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-10-09 21:28:01 --> Invalid file: v_tambah_denda.php
+#0 C:\xampp\htdocs\siskamling\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_tambah_denda....')
+#1 C:\xampp\htdocs\siskamling\system\Common.php(1089): CodeIgniter\View\View->render('v_tambah_denda', Array, true)
+#2 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(507): view('v_tambah_denda', Array)
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->tambah_denda()
+#4 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-10-09 21:31:12 --> Unknown column 'id_absensi' in 'where clause'
+ERROR - 2023-10-09 21:43:02 --> Column 'minggu' cannot be null
+ERROR - 2023-10-09 21:53:58 --> Column 'minggu' cannot be null

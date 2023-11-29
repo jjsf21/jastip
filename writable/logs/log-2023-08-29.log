@@ -1,0 +1,84 @@
+ERROR - 2023-08-29 22:01:54 --> Unknown column 'nik' in 'field list'
+ERROR - 2023-08-29 22:02:44 --> Unknown column 'nik' in 'field list'
+CRITICAL - 2023-08-29 23:01:23 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:02:13 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:05:44 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:11:04 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:13:17 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:14:01 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:16:15 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:21:45 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:21:51 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\perjalanan\app\Controllers\Home.php on line 109
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(109): view('v_tambah_penggu...', NULL)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pengguna()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-29 23:57:50 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(160): CodeIgniter\Model->__call('qedit', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_edit_pengguna()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

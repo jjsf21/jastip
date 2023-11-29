@@ -1,0 +1,131 @@
+CRITICAL - 2023-09-13 08:22:11 --> Cannot redeclare App\Controllers\Home::rencana()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-09-13 08:22:44 --> Unknown column 'tanggal' in 'field list'
+ERROR - 2023-09-13 08:23:12 --> Unknown column 'tanggal' in 'field list'
+ERROR - 2023-09-13 08:24:33 --> Unknown column 'id_rencana' in 'where clause'
+ERROR - 2023-09-13 08:26:06 --> Unknown column 'id_rencana' in 'where clause'
+ERROR - 2023-09-13 08:40:57 --> Column 'level' cannot be null
+ERROR - 2023-09-13 08:41:42 --> Column 'level' cannot be null
+ERROR - 2023-09-13 08:42:45 --> Column 'level' cannot be null
+ERROR - 2023-09-13 08:45:39 --> Column 'level' cannot be null
+ERROR - 2023-09-13 08:50:08 --> Table 'pegawai.penerimaan' doesn't exist
+CRITICAL - 2023-09-13 08:50:08 --> Call to a member function getRow() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(353): App\Models\M_model->getRow('penerimaan', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->edit_penerimaan('1')
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 08:50:15 --> Table 'pegawai.penerimaan' doesn't exist
+ERROR - 2023-09-13 08:53:12 --> Table 'pegawai.penerimaan' doesn't exist
+CRITICAL - 2023-09-13 08:53:12 --> Call to a member function getRow() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(353): App\Models\M_model->getRow('penerimaan', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->edit_penerimaan('1')
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 09:01:39 --> Table 'pegawai.penerimaan' doesn't exist
+CRITICAL - 2023-09-13 09:01:39 --> Call to a member function getRow() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(353): App\Models\M_model->getRow('penerimaan', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->edit_penerimaan('1')
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 09:02:09 --> Unknown column 'id_penerimaan' in 'where clause'
+CRITICAL - 2023-09-13 09:02:09 --> Call to a member function getRow() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(353): App\Models\M_model->getRow('penerimaan_pega...', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->edit_penerimaan('1')
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 09:02:12 --> Unknown column 'id_penerimaan' in 'where clause'
+CRITICAL - 2023-09-13 09:02:12 --> Call to a member function getRow() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(353): App\Models\M_model->getRow('penerimaan_pega...', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->edit_penerimaan('1')
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 21:00:24 --> Table 'pegawai.user' doesn't exist in engine
+CRITICAL - 2023-09-13 21:00:24 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(32): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 21:00:25 --> Table 'pegawai.user' doesn't exist in engine
+CRITICAL - 2023-09-13 21:00:25 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(32): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 21:00:31 --> Table 'pegawai.user' doesn't exist in engine
+CRITICAL - 2023-09-13 21:00:31 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(32): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 21:00:36 --> Table 'pegawai.user' doesn't exist in engine
+CRITICAL - 2023-09-13 21:00:36 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(32): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-13 21:00:48 --> Table 'pegawai.user' doesn't exist in engine
+CRITICAL - 2023-09-13 21:00:48 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(32): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-13 21:05:14 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\pegawai\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\pegawai\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(32): CodeIgniter\Model->__call('getarrow', Array)
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-09-13 21:07:01 --> Table 'pegawai.user' doesn't exist in engine
+CRITICAL - 2023-09-13 21:07:01 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(32): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-13 21:30:26 --> Invalid file: v_edit_penerimaan_pegawai.php
+#0 C:\xampp\htdocs\pegawai\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_edit_penerima...')
+#1 C:\xampp\htdocs\pegawai\system\Common.php(1089): CodeIgniter\View\View->render('v_edit_penerima...', Array, true)
+#2 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(360): view('v_edit_penerima...', Array)
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->edit_penerimaan('2')
+#4 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

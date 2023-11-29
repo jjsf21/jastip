@@ -1,0 +1,210 @@
+CRITICAL - 2023-08-23 21:06:37 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-08-23 21:06:42 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-08-23 21:10:21 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-08-23 21:10:22 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2023-08-23 21:18:48 --> No database selected
+CRITICAL - 2023-08-23 21:18:48 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(72): App\Models\M_model->tampil('user')
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->user()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-23 21:21:36 --> No database selected
+CRITICAL - 2023-08-23 21:21:36 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(72): App\Models\M_model->tampil('user')
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->user()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-23 21:23:16 --> No database selected
+CRITICAL - 2023-08-23 21:23:16 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-23 21:24:02 --> No database selected
+CRITICAL - 2023-08-23 21:24:02 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-08-23 21:24:54 --> No database selected
+CRITICAL - 2023-08-23 21:24:54 --> Call to a member function getRowArray() on bool
+#0 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): App\Models\M_model->getarray('user', Array)
+#1 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#2 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-08-23 21:26:21 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:27:55 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:28:00 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:29:17 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:30:32 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:37:45 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:42:25 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:44:51 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(34): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:47:04 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\perjalanan\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-08-23 21:47:17 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(32): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:48:36 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(32): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-23 21:49:37 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\perjalanan\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\perjalanan\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\perjalanan\app\Controllers\Home.php(32): CodeIgniter\Model->__call('getarray', Array)
+#3 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(832): App\Controllers\Home->aksi_login()
+#4 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\perjalanan\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\perjalanan\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\perjalanan\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

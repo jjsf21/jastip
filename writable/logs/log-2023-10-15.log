@@ -1,0 +1,36 @@
+ERROR - 2023-10-15 04:53:05 --> Unknown column 'tanggal_denda' in 'where clause'
+CRITICAL - 2023-10-15 04:53:05 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(846): App\Models\M_model->filter('denda', '2023-10-15', '2023-11-03')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-15 04:53:10 --> Unknown column 'tanggal_denda' in 'where clause'
+CRITICAL - 2023-10-15 04:53:10 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(846): App\Models\M_model->filter('denda', '2023-10-15', '2023-11-03')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-15 04:53:10 --> Unknown column 'tanggal_denda' in 'where clause'
+CRITICAL - 2023-10-15 04:53:10 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(846): App\Models\M_model->filter('denda', '2023-10-15', '2023-11-03')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-15 21:12:20 --> Unknown column 'denda' in 'where clause'
+CRITICAL - 2023-10-15 21:12:20 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(846): App\Models\M_model->filter('absensi', '2023-10-24', '2023-11-08')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_absensi()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

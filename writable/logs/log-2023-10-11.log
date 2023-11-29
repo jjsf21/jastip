@@ -1,0 +1,109 @@
+CRITICAL - 2023-10-11 21:14:02 --> syntax error, unexpected '$column' (T_VARIABLE)
+#0 C:\xampp\htdocs\siskamling\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\siskamling\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2023-10-11 21:14:55 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-11 21:14:55 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(489): App\Models\M_model->tampil('denda')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-11 21:15:17 --> Table 'siskamling.2023-10-11' doesn't exist
+CRITICAL - 2023-10-11 21:15:17 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(848): App\Models\M_model->fusionleft('denda', '2023-10-11', '2023-10-31')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-11 21:15:48 --> Table 'siskamling.2023-10-11' doesn't exist
+CRITICAL - 2023-10-11 21:15:48 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(848): App\Models\M_model->fusionleft('denda', '2023-10-11', '2023-10-31')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-10-11 21:17:17 --> Too few arguments to function App\Models\M_model::filter(), 3 passed in C:\xampp\htdocs\siskamling\app\Controllers\Home.php on line 848 and exactly 5 expected
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(848): App\Models\M_model->filter('denda', '2023-10-11', '2023-10-31')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-10-11 21:17:52 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\siskamling\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\siskamling\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(848): CodeIgniter\Model->__call('filter', Array)
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#4 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-10-11 21:18:04 --> Too few arguments to function App\Models\M_model::filter(), 3 passed in C:\xampp\htdocs\siskamling\app\Controllers\Home.php on line 848 and exactly 5 expected
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(848): App\Models\M_model->filter('denda', '2023-10-11', '2023-10-31')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-11 21:19:30 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-11 21:19:30 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(489): App\Models\M_model->tampil('denda')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-11 21:20:05 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-11 21:20:05 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(311): App\Models\M_model->tampil('jadwal')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->jadwal()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-11 21:20:09 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-11 21:20:09 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(217): App\Models\M_model->tampil('absensi')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->absensi()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-11 21:21:02 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-11 21:21:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(217): App\Models\M_model->tampil('absensi')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->absensi()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-11 21:25:30 --> Unknown column 'tgl_denda' in 'where clause'
+CRITICAL - 2023-10-11 21:25:30 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(852): App\Models\M_model->filter('denda', '2023-10-12', '2023-11-01')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->cari_denda()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

@@ -1,0 +1,815 @@
+CRITICAL - 2023-09-29 01:02:43 --> Invalid file: resep.php
+#0 C:\xampp\htdocs\poliklinik\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('resep.php')
+#1 C:\xampp\htdocs\poliklinik\system\Common.php(1089): CodeIgniter\View\View->render('resep', Array, true)
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(516): view('resep')
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->resep()
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 01:05:53 --> Invalid file: resep.php
+#0 C:\xampp\htdocs\poliklinik\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('resep.php')
+#1 C:\xampp\htdocs\poliklinik\system\Common.php(1089): CodeIgniter\View\View->render('resep', Array, true)
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(516): view('resep')
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->resep()
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 01:06:20 --> Invalid file: resep.php
+#0 C:\xampp\htdocs\poliklinik\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('resep.php')
+#1 C:\xampp\htdocs\poliklinik\system\Common.php(1089): CodeIgniter\View\View->render('resep', Array, true)
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(516): view('resep')
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->resep()
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 01:41:14 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:42:47 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:43:02 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:43:31 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:43:38 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:43:44 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:44:03 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:44:19 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:45:18 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:45:18 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:45:53 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:45:55 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:46:27 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:46:33 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:48:03 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/resep')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/resep')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:52:42 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/tambah_res...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/tambah_res...')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 01:52:46 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:03 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:04 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:04 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:04 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:05 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:05 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:05 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:05 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:05 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:19 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:53:31 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:57:41 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:57:42 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 01:58:17 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\poliklinik\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2023-09-29 02:07:06 --> Invalid file: tambah_resep.php
+#0 C:\xampp\htdocs\poliklinik\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_resep.ph...')
+#1 C:\xampp\htdocs\poliklinik\system\Common.php(1089): CodeIgniter\View\View->render('tambah_resep', Array, true)
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(603): view('tambah_resep')
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->tambah_resep()
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 02:09:47 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/tambah_res...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/tambah_res...')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 02:09:57 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/tambah_res...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/tambah_res...')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 02:10:51 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/tambah_res...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/tambah_res...')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 02:17:48 --> Column 'id_pasien' cannot be null
+CRITICAL - 2023-09-29 02:20:10 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\poliklinik\app\Views\v_resep.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\poliklinik\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\poliklinik\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\poliklinik\system\Common.php(1089): CodeIgniter\View\View->render('v_resep', Array, true)
+#4 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(516): view('v_resep')
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->resep()
+#6 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2023-09-29 02:33:20 --> Column 'id_pasien' cannot be null
+ERROR - 2023-09-29 02:38:48 --> Column 'id_pasien' cannot be null
+ERROR - 2023-09-29 02:40:01 --> Column 'id_pasien' cannot be null
+ERROR - 2023-09-29 02:41:04 --> Column 'id_pasien' cannot be null
+ERROR - 2023-09-29 02:42:50 --> Column 'id_pasien' cannot be null
+CRITICAL - 2023-09-29 03:13:06 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(592): CodeIgniter\Model->__call('edit_lelang', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_resep('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 03:14:52 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(592): CodeIgniter\Model->__call('edit_lelang', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_resep('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 03:15:22 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(592): CodeIgniter\Model->__call('edit_resep', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_resep('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 03:15:39 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(592): CodeIgniter\Model->__call('edit_resep', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_resep('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 03:15:40 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(592): CodeIgniter\Model->__call('edit_resep', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_resep('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 03:15:40 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(592): CodeIgniter\Model->__call('edit_resep', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_resep('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 03:15:40 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(592): CodeIgniter\Model->__call('edit_resep', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_resep('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 03:15:40 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(592): CodeIgniter\Model->__call('edit_resep', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_resep('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-09-29 04:31:11 --> syntax error, unexpected ''id_pasien'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/poliklinik')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/poliklinik')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 04:31:28 --> Cannot redeclare App\Controllers\Home::edit_resep()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-09-29 04:31:41 --> Cannot redeclare App\Controllers\Home::aksi_edit_resep()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-09-29 04:31:53 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:31:53 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusion('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:32:05 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:32:05 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusion('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:32:49 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:32:49 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusion('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:00 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:02 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:02 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:03 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:03 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:03 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:04 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:04 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:34:04 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:34:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(655): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:35:56 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:35:56 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(677): App\Models\M_model->fusion('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-29 04:36:18 --> Unknown column 'resep.id_pasien' in 'on clause'
+CRITICAL - 2023-09-29 04:36:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(677): App\Models\M_model->fusionleft('pembayaran', 'pasien', 'resep.id_pasien...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->tambah_pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 04:44:40 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:45:12 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/edit_pemba...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/edit_pemba...')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-29 04:45:35 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:47 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:49 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:50 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:50 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:50 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:50 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:51 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:51 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:51 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:51 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:52 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:46:52 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:47:17 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:47:17 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:48:14 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:49:00 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:51:26 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:51:27 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:51:27 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:51:27 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:51:27 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:56:49 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:56:50 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:56:50 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 04:56:51 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 05:19:03 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 05:21:40 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-29 05:22:06 --> Too few arguments to function App\Controllers\Home::edit_pembayaran(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pembayaran()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2023-09-29 05:24:19 --> Unknown column 'id_pembayaran' in 'where clause'
+ERROR - 2023-09-29 05:24:40 --> Unknown column 'id_pembayaran' in 'where clause'

@@ -1,0 +1,10 @@
+ERROR - 2023-11-21 05:43:35 --> Unknown column 'tanggal' in 'where clause'
+CRITICAL - 2023-11-21 05:43:35 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\jastip\app\Controllers\Home.php(841): App\Models\M_model->filter('penitip_barang', '2023-11-21', '2023-12-01')
+#1 C:\xampp\htdocs\jastip\system\CodeIgniter.php(832): App\Controllers\Home->cari_penitip_barang()
+#2 C:\xampp\htdocs\jastip\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\jastip\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\jastip\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\jastip\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-11-21 05:55:50 --> Column 'rating' cannot be null

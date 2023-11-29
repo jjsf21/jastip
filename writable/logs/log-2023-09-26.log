@@ -1,0 +1,240 @@
+ERROR - 2023-09-26 05:17:31 --> Unknown column 'nama' in 'field list'
+CRITICAL - 2023-09-26 05:21:41 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:23:36 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:24:48 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:25:09 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:25:26 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:27:32 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:27:57 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:36 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:38 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:39 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:39 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:39 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:40 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:40 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:40 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:40 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:40 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:41 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:41 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:41 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:41 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:41 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:42 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:28:50 --> Too few arguments to function App\Controllers\Home::hapus_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->hapus_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:38:12 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:39:46 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/pasien')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/pasien')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-26 05:40:00 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:47:32 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:50:21 --> Too few arguments to function App\Controllers\Home::edit_pasien(), 0 passed in C:\xampp\htdocs\poliklinik\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pasien()
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-09-26 05:57:11 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/edit_pasie...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/edit_pasie...')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-26 06:00:51 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/pasien')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/pasien')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-09-26 06:00:52 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\poliklinik\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/tambah_pas...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/tambah_pas...')
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-26 07:50:02 --> Unknown column 'id_seleksi' in 'where clause'
+ERROR - 2023-09-26 07:50:06 --> Unknown column 'id_seleksi' in 'where clause'
+ERROR - 2023-09-26 21:05:31 --> Table 'poliklinik.pengajian' doesn't exist
+CRITICAL - 2023-09-26 21:05:31 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(499): App\Models\M_model->tampil('pengajian')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pengajian()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

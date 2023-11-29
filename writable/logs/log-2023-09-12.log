@@ -1,0 +1,40 @@
+CRITICAL - 2023-09-12 21:45:18 --> Cannot redeclare App\Controllers\Home::edit_rencana()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-09-12 21:45:44 --> Table 'pegawai.penerimaan' doesn't exist
+CRITICAL - 2023-09-12 21:45:45 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(313): App\Models\M_model->tampil('penerimaan')
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->penerimaan()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-12 21:45:56 --> Table 'pegawai.penerimaan' doesn't exist
+CRITICAL - 2023-09-12 21:45:56 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(313): App\Models\M_model->tampil('penerimaan')
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->penerimaan()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-12 21:48:16 --> Table 'pegawai.penerimaan' doesn't exist
+ERROR - 2023-09-12 21:48:38 --> Table 'pegawai.penerimaan' doesn't exist
+CRITICAL - 2023-09-12 21:48:38 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(330): App\Models\M_model->tampil('penerimaan')
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->tambah_penerimaan()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-12 21:48:42 --> Table 'pegawai.penerimaan' doesn't exist
+CRITICAL - 2023-09-12 21:48:42 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\pegawai\app\Controllers\Home.php(330): App\Models\M_model->tampil('penerimaan')
+#1 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(832): App\Controllers\Home->tambah_penerimaan()
+#2 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\pegawai\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\pegawai\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\pegawai\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

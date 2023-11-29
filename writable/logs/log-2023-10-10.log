@@ -1,0 +1,18 @@
+ERROR - 2023-10-10 21:46:18 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:46:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(125): App\Models\M_model->tampil('warga')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->warga()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-10-10 21:46:58 --> Unknown column 'created_at' in 'order clause'
+CRITICAL - 2023-10-10 21:46:58 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\siskamling\app\Controllers\Home.php(125): App\Models\M_model->tampil('warga')
+#1 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(832): App\Controllers\Home->warga()
+#2 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\siskamling\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\siskamling\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\siskamling\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

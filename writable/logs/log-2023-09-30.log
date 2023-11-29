@@ -1,0 +1,52 @@
+CRITICAL - 2023-09-30 07:58:32 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\poliklinik\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\poliklinik\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(515): view('menu')
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->resep()
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-09-30 08:11:31 --> Unknown column 'tgl_pendf' in 'field list'
+ERROR - 2023-09-30 08:12:10 --> Unknown column 'tgl_pendf' in 'field list'
+ERROR - 2023-09-30 08:12:33 --> Unknown column 'tgl_pendf' in 'field list'
+CRITICAL - 2023-09-30 08:13:59 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\poliklinik\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\poliklinik\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(866): CodeIgniter\Model->__call('edit_pendaftara...', Array)
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->edit_pendaftaran('2')
+#4 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2023-09-30 08:14:42 --> Unknown column 'tgl_pendf' in 'field list'
+ERROR - 2023-09-30 08:15:56 --> Unknown column 'tgl_pendf' in 'field list'
+ERROR - 2023-09-30 08:30:52 --> Unknown column 'pasien.id_obat' in 'on clause'
+CRITICAL - 2023-09-30 08:30:52 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(949): App\Models\M_model->fusionleft('detail', 'obat', 'detail.id_obat=...')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->tambah_detail()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-30 09:14:50 --> Unknown column 'tanggal_gajian' in 'where clause'
+CRITICAL - 2023-09-30 09:14:50 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(1076): App\Models\M_model->filter('pembayaran', '2023-09-30', '2023-09-06')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->cari_pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-30 09:14:58 --> Unknown column 'tanggal_gajian' in 'where clause'
+CRITICAL - 2023-09-30 09:14:58 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(1076): App\Models\M_model->filter('pembayaran', '2023-09-30', '2023-10-06')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->cari_pembayaran()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

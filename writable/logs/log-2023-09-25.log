@@ -1,0 +1,46 @@
+ERROR - 2023-09-25 21:40:50 --> Table 'pegawai.pasien' doesn't exist
+CRITICAL - 2023-09-25 21:40:50 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(124): App\Models\M_model->tampil('pasien')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pasien()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-25 21:40:58 --> Table 'pegawai.pasien' doesn't exist
+CRITICAL - 2023-09-25 21:40:58 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(124): App\Models\M_model->tampil('pasien')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pasien()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-25 21:46:04 --> Table 'pegawai.pasien' doesn't exist
+CRITICAL - 2023-09-25 21:46:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(124): App\Models\M_model->tampil('pasien')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pasien()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-25 21:46:32 --> Table 'pegawai.pasien' doesn't exist
+CRITICAL - 2023-09-25 21:46:32 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(124): App\Models\M_model->tampil('pasien')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pasien()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-25 21:46:35 --> Table 'pegawai.pasien' doesn't exist
+CRITICAL - 2023-09-25 21:46:35 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\poliklinik\app\Controllers\Home.php(124): App\Models\M_model->tampil('pasien')
+#1 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(832): App\Controllers\Home->pasien()
+#2 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\poliklinik\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\poliklinik\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\poliklinik\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2023-09-25 21:47:43 --> Unknown column 'nama' in 'field list'
